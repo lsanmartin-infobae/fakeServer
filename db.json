@@ -1,3 +1,4 @@
+{
   "data": {
     "post": [
       {
@@ -126,32 +127,6 @@
             "metatitle": "USD COP",
             "subtitle": "Sesión en positivo: se anota una subida de un 1,04%",
             "_id": "db88daef8b3af8b13c4441123762dd49",
-            "id": "20200116_USDCOP_FOREX_Finance_Currencies_IBAE_IBAE_ES",
-            "tag": "USD,COP",
-            "metadesc": "Cotización del Dólar / Peso colombiano (USD/COP) del 16 de enero"
-          },
-          {
-            "__caso" : "#6: Campos vacios", 
-            "date": "2020-01-16T19:01:45+01:00",
-            "metadata": {
-              "date": "2020-01-16",
-              "graph_picurl": "https://resources.gabriele.ai/stock/20200116_USDCOP_FOREX_CLOSE_2020-01-16.png",
-              "name": "Dólar / Peso colombiano (USD/COP)",
-              "type": "currencies"
-            },
-            "author": "Narrativa",
-            "_rev": "1-bb1416aeddd93633cb1b7574cc1d0d83",
-            "leadin": "Información a jueves, 16 de enero",
-            "language": "ES",
-            "title": "",
-            "section1": "mercado-y-bolsa",
-            "section2": "divisas",
-            "content": "",
-            "section3": "dólar / peso colombiano (usd/cop)",
-            "picurl": "",
-            "metatitle": "USD COP",
-            "subtitle": "Sesión en positivo: se anota una subida de un 1,04%",
-            "_id": "",
             "id": "20200116_USDCOP_FOREX_Finance_Currencies_IBAE_IBAE_ES",
             "tag": "USD,COP",
             "metadesc": "Cotización del Dólar / Peso colombiano (USD/COP) del 16 de enero"
