@@ -74,7 +74,7 @@
           "picurl": "ient=IBAE",
           "metatitle": "USD COP",
           "subtitle": "Sesión en positivo: se anota una subida de un 1,04%",
-          "_id": "db88daef8b3af8b13c4441123762dd49",
+          "_id": "Z388daef8b3af8b13c4441123762dd49",
           "id": "20200116_USDCOP_FOREX_Finance_Currencies_IBAE_IBAE_ES",
           "tag": "USD,COP",
           "metadesc": "Cotización del Dólar / Peso colombiano (USD/COP) del 16 de enero"
@@ -100,7 +100,7 @@
             "picurl": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/finance?pair1=USD&pair2=COP&close=3.321%2C000&date=16%2F01%2F2020&activename=D%C3%B3lar+%2F+Peso+colombiano+%28USD%2FCOP%29&activemarket=FOREX&type=currencies&percent=1%2C04%25&direction=3&client=IBAE",
             "metatitle": "USD COP",
             "subtitle": "Sesión en positivo: se anota una subida de un 1,04%",
-            "_id": "db88daef8b3af8b13c4441123762dd49",
+            "_id": "Z488daef8b3af8b13c4441123762dd49",
             "id": "20200116_USDCOP_FOREX_Finance_Currencies_IBAE_IBAE_ES",
             "tag": "USD,COP",
             "metadesc": "Cotización del Dólar / Peso colombiano (USD/COP) del 16 de enero"
@@ -126,7 +126,7 @@
             "picurl": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/finance?pair1=USD&pair2=COP&close=3.321%2C000&date=16%2F01%2F2020&activename=D%C3%B3lar+%2F+Peso+colombiano+%28USD%2FCOP%29&activemarket=FOREX&type=currencies&percent=1%2C04%25&direction=3&client=IBAE",
             "metatitle": "USD COP",
             "subtitle": "Sesión en positivo: se anota una subida de un 1,04%",
-            "_id": "db88daef8b3af8b13c4441123762dd49",
+            "_id": "Z588daef8b3af8b13c4441123762dd49",
             "id": "20200116_USDCOP_FOREX_Finance_Currencies_IBAE_IBAE_ES",
             "tag": "USD,COP",
             "metadesc": "Cotización del Dólar / Peso colombiano (USD/COP) del 16 de enero"
